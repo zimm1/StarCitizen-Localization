@@ -1,4 +1,4 @@
-# StarCitizen-Localization 🌎
+# StarCitizen-Localization 🌎<!-- omit in toc -->
 
 [![Discord](https://img.shields.io/discord/1185135396112322620?logo=discord&label=discord)](https://discord.gg/Gbvz9fTmZU)
 ![GitHub all releases](https://img.shields.io/github/downloads/Dymerz/StarCitizen-Localization/total)
@@ -29,11 +29,11 @@
 
 | Idioma                  | Suportado | Fonte |
 |--------------------------|-----------|-------|
-| Inglês                  | ![Static Badge](https://img.shields.io/badge/4.8.0-LIVE-brightgreen) | Importado dos arquivos do jogo |
-| Francês - França        | ![Static Badge](https://img.shields.io/badge/4.8.0-LIVE-brightgreen) | Gerado de [circuspes.fr](https://traduction.circuspes.fr) |
+| Inglês                  | ![Static Badge](https://img.shields.io/badge/4.8.3-LIVE-brightgreen) | Importado dos arquivos do jogo |
+| Francês - França        | ![Static Badge](https://img.shields.io/badge/4.8.1-LIVE-brightgreen) | Gerado de [circuspes.fr](https://traduction.circuspes.fr) |
 | Alemão - Alemanha       | ![Static Badge](https://img.shields.io/badge/4.2.0-LIVE-orange) | Aqui |
-| Português - Brasil      | ![Static Badge](https://img.shields.io/badge/4.8.0-LIVE-brightgreen) | Aqui |
-| Italiano - Itália       | ![Static Badge](https://img.shields.io/badge/4.7.2-LIVE-yellow) | [GattoMatto](https://robertsspaceindustries.com/citizens/GattoMatto) e [MrRevo](https://robertsspaceindustries.com/citizens/MrRevo) |
+| Português - Brasil      | ![Static Badge](https://img.shields.io/badge/4.8.3-LIVE-brightgreen) | Aqui |
+| Italiano - Itália       | ![Static Badge](https://img.shields.io/badge/4.8.1-LIVE-brightgreen) | [GattoMatto](https://robertsspaceindustries.com/citizens/GattoMatto) e [MrRevo](https://robertsspaceindustries.com/citizens/MrRevo) |
 | Espanhol - Espanha      | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-orange) | Aqui |
 | Turco - Turquia         | ![Static Badge](https://img.shields.io/badge/4.6.0-LIVE-yellow) | Aqui |
 | Espanhol - América Latina | ![Static Badge](https://img.shields.io/badge/x.xx.x-LIVE-darkred) | Aguardando contribuição |
